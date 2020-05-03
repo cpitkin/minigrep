@@ -1,3 +1,3 @@
-minigrep
+# The Rust Programming Language Book
 
-This project is from the Rust Language Book, [Chapter 12](https://doc.rust-lang.org/book/ch12-00-an-io-project.html).
+This repo contains all the excercises from the book. You can find the book [here](https://doc.rust-lang.org/book/title-page.html)
